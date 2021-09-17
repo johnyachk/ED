@@ -1,0 +1,101 @@
+patient_number ,age ,guarantor,gender,nationality ,arrival_mode,Date,registration_time,triage_started ,triage,roomed_in_ED ,physician contact ,chief_complaint,ordered_test,order_description,ordered_fees,discharge time ,diagnosis,patient physically left ,patient physically left time ,latitude,longitude,Population ,disposition
+29,9,self ,Male ,American ,car ,9/1/2021,14:58:16,15:01,4,15:07,15:13,stomatch pain ,Radiology ,X-ray pelvis,411,18:13,antibiotics ,19:01,0:48,25.28545,51.53096,200000,discharged_AMA
+39,79,self ,Male ,Indian ,car ,9/1/2021,15:58:16,16:01,4,16:07,16:13,vomiting ,Lab,PTT ,143,19:13,antibiotics ,20:01,0:48,25.29194,51.42444,150000,admitted 
+94,69,self ,Male ,Lebanese ,car ,9/1/2021,16:58:16,17:01,4,17:07,17:13,dyspnea ,Radiology ,CT - abdomen ,294,21:13,laparotomy ,21:19,0:06,25.41524,51.40647,80000,admitted 
+84,25,self ,Male ,Lebanese ,car ,9/2/2021,17:58:16,18:01,1,18:07,18:13,dyspnea ,procedure ,lumbar_puncture ,473,22:13,cardiac cath ,23:01,0:48,25.17151,51.60337,400000,admitted 
+79,7,self ,Female ,Lebanese ,car ,9/3/2021,18:58:16,19:01,1,19:07,19:13,dyspnea ,Lab,PTT ,114,23:13,cardiac cath ,0:01,0:48,25.68389,51.50583,190000,admitted 
+6,25,self ,Female ,Qatari ,ambulance ,9/5/2021,19:58:16,20:01,1,20:07,20:13,stomatch pain ,Lab,urine analysis ,195,22:13,Hernia ,22:43,0:30,25.37088,51.22264,220000,admitted 
+10,66,self ,Female ,Qatari ,ambulance ,9/8/2021,20:58:16,21:01,2,21:07,21:13,stomatch pain ,Lab,urine analysis ,352,0:13,Hernia ,0:43,0:30,25.42485,50.78227,30000,admitted 
+57,11,self ,Male ,Indian ,car ,9/8/2021,21:58:16,22:01,4,22:07,22:13,chest pain ,Lab,PTT ,431,23:13,antibiotics ,23:34,0:21,24.99226,51.55067,200000,discharged 
+85,18,self ,Male ,Lebanese ,car ,9/8/2021,22:58:16,23:01,3,23:07,23:13,dyspnea ,Radiology ,CT - Brain ,160,3:13,cardiac cath ,4:01,0:48,26.12933,51.2009,150000,discharged 
+54,8,self ,Male ,Indian ,ambulance ,9/9/2021,23:58:16,0:01,3,0:07,0:13,chest pain ,Lab,PTT ,463,1:13,antibiotics ,1:34,0:21,25.15107,51.53718,80000,discharged 
+99,41,self ,Male ,Lebanese ,car ,9/12/2021,0:58:16,1:01,3,1:07,1:13,burn ,Radiology ,X-Ray chest ,469,5:13,CABG ,5:19,0:06,26.13978,51.21493,400000,discharged 
+37,58,self ,Male ,American ,car ,9/14/2021,1:58:16,2:01,2,2:07,2:13,vomiting ,Lab,TSH,167,5:13,antibiotics ,6:01,0:48,25.21417,50.80722,190000,discharged 
+51,78,self ,Male ,Indian ,ambulance ,9/16/2021,2:58:16,3:01,1,3:07,3:13,chest pain ,Lab,PTT ,133,6:13,antibiotics ,6:34,0:21,25.82882,51.24567,220000,discharged 
+34,41,self ,Male ,American ,car ,9/18/2021,3:58:16,4:01,4,4:07,4:13,vomiting ,procedure ,Airway_management ,427,7:13,antibiotics ,8:01,0:48,25.61068,51.09108,30000,discharged_AMA
+60,41,self ,Male ,Indian ,car ,9/18/2021,4:58:16,5:01,4,5:07,5:13,chest pain ,procedure ,Airway_management ,335,6:13,antibiotics ,6:34,0:21,26.02565,51.36971,200000,discharged_AMA
+86,41,self ,Male ,Lebanese ,car ,9/18/2021,5:58:16,6:03,1,6:09,6:15,dyspnea ,procedure ,ED_Thoracotomy ,223,10:15,cardiac cath ,11:03,0:48,24.7437,50.83174,150000,discharged_AMA
+33,18,self ,Male ,American ,car ,9/19/2021,6:58:16,7:03,1,7:09,7:15,vomiting ,procedure ,ED_Thoracotomy ,257,10:15,antibiotics ,11:03,0:48,25.68389,51.50583,190000,discharged_AMA
+69,66,self ,Male ,Indian ,car ,9/19/2021,7:58:16,8:03,4,8:09,8:15,chest pain ,procedure ,ED_Thoracotomy ,160,12:15,cardiac cath ,13:03,0:48,25.37088,51.22264,220000,admitted 
+40,82,self ,Male ,Indian ,car ,9/20/2021,8:58:16,9:03,4,9:09,9:15,vomiting ,Lab,TSH,435,12:15,antibiotics ,13:03,0:48,25.42485,50.78227,30000,admitted 
+75,91,self ,Female ,Lebanese ,car ,9/20/2021,9:58:16,10:03,5,10:09,10:15,dyspnea ,Lab,PTT ,261,14:15,cardiac cath ,15:03,0:48,24.99226,51.55067,200000,admitted 
+11,58,self ,Female ,Qatari ,ambulance ,9/22/2021,10:58:16,11:03,1,11:15,11:27,stomatch pain ,Lab,creatinine ,123,14:27,Hernia ,14:57,0:30,26.12933,51.2009,150000,admitted 
+59,18,self ,Male ,Indian ,car ,9/22/2021,11:58:16,12:03,1,12:15,12:27,chest pain ,Lab,PT,360,13:27,antibiotics ,13:48,0:21,25.15107,51.53718,80000,discharged_AMA
+8,41,self ,Female ,Qatari ,ambulance ,9/24/2021,12:58:16,13:03,1,13:15,13:27,stomatch pain ,Lab,HDL ,248,15:27,Hernia ,15:57,0:30,26.13978,51.21493,400000,admitted 
+47,41,self ,Male ,Indian ,ambulance ,9/25/2021,13:58:16,14:03,2,14:15,14:27,chest pain ,Lab,PT,385,17:27,antibiotics ,17:48,0:21,25.21417,50.80722,190000,admitted 
+87,33,self ,Male ,Lebanese ,car ,9/26/2021,14:58:16,15:03,2,15:15,15:27,dyspnea ,Radiology ,CT - abdomen ,435,19:27,laparotomy ,19:33,0:06,25.82882,51.24567,220000,admitted 
+73,41,self ,Female ,Lebanese ,car ,9/29/2021,15:58:16,16:03,4,16:15,16:27,dyspnea ,Lab,TSH,437,20:27,cardiac cath ,21:15,0:48,25.61068,51.09108,30000,admitted 
+50,88,self ,Male ,Indian ,ambulance ,10/1/2021,16:58:16,17:03,3,17:15,17:27,chest pain ,Lab,PT,388,20:27,antibiotics ,20:48,0:21,26.02565,51.36971,200000,discharged_AMA
+93,45,self ,Male ,Lebanese ,car ,10/2/2021,17:58:16,18:03,1,18:15,18:27,dyspnea ,Radiology ,CT - abdomen ,450,22:27,laparotomy ,22:33,0:06,24.7437,50.83174,150000,discharged_AMA
+64,71,self ,Male ,Indian ,car ,10/3/2021,18:58:16,19:03,4,19:15,19:27,chest pain ,Lab,TSH,148,20:27,antibiotics ,20:48,0:21,25.57744,51.48306,80000,discharged 
+65,79,self ,Male ,Indian ,car ,10/3/2021,19:58:16,20:03,1,20:15,20:27,chest pain ,Lab,PT,240,21:27,cardiac cath ,22:15,0:48,25.46972,51.3975,400000,discharged 
+88,66,self ,Male ,Lebanese ,car ,10/3/2021,20:58:16,21:03,1,21:15,21:27,dyspnea ,Radiology ,CT - abdomen ,322,1:27,laparotomy ,1:33,0:06,25.28545,51.53096,190000,discharged 
+95,66,self ,Male ,Lebanese ,car ,10/4/2021,21:58:16,22:03,1,22:15,22:27,burn ,Radiology ,CT - abdomen ,393,2:27,laparotomy ,2:33,0:06,25.29194,51.42444,220000,discharged 
+9,33,self ,Female ,Qatari ,ambulance ,10/7/2021,22:58:16,23:03,5,23:15,23:27,stomatch pain ,Lab,CBC,238,1:27,Hernia ,1:57,0:30,25.41524,51.40647,30000,discharged 
+70,75,self ,Male ,Lebanese ,car ,10/7/2021,23:58:16,0:04,5,0:16,0:28,chest pain ,Lab,TSH,223,4:28,cardiac cath ,5:16,0:48,25.17151,51.60337,200000,discharged 
+5,11,insurance ,Female ,Qatari ,ambulance ,10/8/2021,0:58:16,1:04,5,1:16,1:28,stomatch pain ,Lab,CBC,341,3:28,Hernia ,3:58,0:30,25.68389,51.50583,150000,discharged 
+49,91,insurance ,Male ,Indian ,ambulance ,10/8/2021,1:58:16,2:04,1,2:16,2:28,chest pain ,Lab,TSH,327,5:28,antibiotics ,5:49,0:21,25.37088,51.22264,80000,discharged 
+74,66,insurance ,Female ,Lebanese ,car ,10/8/2021,2:58:16,3:04,2,3:16,3:28,dyspnea ,Lab,PT,222,7:28,cardiac cath ,8:16,0:48,25.42485,50.78227,400000,discharged 
+83,11,insurance ,Male ,Lebanese ,car ,10/8/2021,3:58:16,4:04,2,4:16,4:28,dyspnea ,Lab,PTT ,267,8:28,cardiac cath ,9:16,0:48,24.99226,51.55067,190000,discharged 
+67,45,insurance ,Male ,Indian ,car ,10/10/2021,4:58:16,5:04,1,5:16,5:28,chest pain ,Lab,TSH,286,9:28,cardiac cath ,10:16,0:48,26.12933,51.2009,220000,discharged 
+92,82,insurance ,Male ,Lebanese ,car ,10/10/2021,5:58:16,6:04,1,6:16,6:28,dyspnea ,Radiology ,CT - abdomen ,357,10:28,laparotomy ,10:34,0:06,25.15107,51.53718,30000,admitted 
+46,15,insurance ,Male ,Indian ,ambulance ,10/13/2021,6:58:16,7:04,1,7:16,7:28,vomiting ,Lab,TSH,486,10:28,antibiotics ,10:49,0:21,25.29194,51.42444,150000,admitted 
+53,7,insurance ,Male ,Indian ,ambulance ,10/14/2021,7:58:16,8:04,2,8:16,8:28,chest pain ,Lab,PT,199,11:28,antibiotics ,11:49,0:21,25.21417,50.80722,150000,admitted 
+38,71,insurance ,Male ,American ,car ,10/18/2021,8:58:16,9:04,1,9:16,9:28,vomiting ,Lab,PT,329,12:28,antibiotics ,13:16,0:48,25.82882,51.24567,80000,admitted 
+71,79,insurance ,Female ,Lebanese ,car ,10/19/2021,9:58:16,10:04,4,10:16,10:28,dyspnea ,Lab,PT,120,14:28,cardiac cath ,15:16,0:48,25.61068,51.09108,400000,discharged 
+7,18,insurance ,Female ,Qatari ,ambulance ,10/20/2021,10:58:16,11:04,4,11:16,11:28,stomatch pain ,Lab,creatinine ,464,13:28,Hernia ,13:58,0:30,26.02565,51.36971,190000,discharged 
+24,88,insurance ,Male ,American ,car ,10/20/2021,11:58:16,12:04,2,12:16,12:28,stomatch pain ,Radiology ,X-ray pelvis,133,15:28,antibiotics ,16:16,0:48,24.7437,50.83174,220000,discharged_AMA
+16,69,insurance ,Male ,Qatari ,ambulance ,10/23/2021,12:58:16,13:04,2,13:16,13:28,stomatch pain ,Lab,HDL ,469,16:28,antibiotics ,16:58,0:30,25.57744,51.48306,30000,discharged_AMA
+18,75,insurance ,Male ,American ,car ,10/23/2021,13:58:16,14:04,3,14:16,14:28,stomatch pain ,Radiology ,CT - abdomen ,444,17:28,antibiotics ,17:58,0:30,25.46972,51.3975,200000,discharged_AMA
+78,75,insurance ,Female ,Lebanese ,car ,10/23/2021,14:58:16,15:04,3,15:16,15:28,dyspnea ,Drugs ,Epinephrine,336,19:28,cardiac cath ,20:16,0:48,25.28545,51.53096,150000,discharged_AMA
+45,79,insurance ,Male ,Indian ,car ,10/24/2021,15:58:16,16:04,4,16:16,16:28,vomiting ,Lab,PTT ,373,19:28,antibiotics ,19:49,0:21,25.29194,51.42444,80000,discharged_AMA
+35,33,insurance ,Male ,American ,car ,10/26/2021,16:58:16,17:04,5,17:16,17:28,vomiting ,Radiology ,X-ray pelvis,118,20:28,antibiotics ,21:16,0:48,25.41524,51.40647,400000,discharged_AMA
+41,45,insurance ,Male ,Indian ,car ,10/26/2021,17:58:16,18:04,5,18:16,18:28,vomiting ,Lab,PT,264,21:28,antibiotics ,22:16,0:48,25.17151,51.60337,190000,discharged_AMA
+62,66,insurance ,Male ,Indian ,car ,10/29/2021,18:58:16,19:04,5,19:16,19:28,chest pain ,Drugs ,Nitroglycerin,247,20:28,antibiotics ,20:49,0:21,25.68389,51.50583,220000,discharged 
+27,7,insurance ,Male ,American ,car ,11/2/2021,18:58:16,19:04,4,19:16,19:28,stomatch pain ,Drugs ,Nitroglycerin,258,22:28,antibiotics ,23:16,0:48,25.37088,51.22264,30000,discharged 
+63,58,insurance ,Male ,Indian ,car ,11/2/2021,18:58:16,19:04,1,19:16,19:28,chest pain ,Drugs ,Aspirin,382,20:28,antibiotics ,20:49,0:21,25.42485,50.78227,200000,discharged 
+43,66,insurance ,Male ,Indian ,car ,11/5/2021,18:58:16,19:04,3,19:16,19:28,vomiting ,Drugs ,Nitroglycerin,357,22:28,antibiotics ,23:16,0:48,24.99226,51.55067,150000,discharged 
+90,71,insurance ,Male ,Lebanese ,car ,11/10/2021,18:58:16,19:04,2,19:16,19:28,dyspnea ,Drugs ,Aspirin,296,23:28,laparotomy ,23:34,0:06,26.12933,51.2009,80000,discharged 
+26,75,insurance ,Male ,American ,car ,11/11/2021,18:58:16,19:04,4,19:16,19:28,stomatch pain ,Radiology ,CT - abdomen ,269,22:28,antibiotics ,23:16,0:48,25.15107,51.53718,400000,discharged 
+31,11,insurance ,Male ,American ,car ,11/12/2021,0:58:16,1:04,1,1:16,1:28,vomiting ,procedure ,lumbar_puncture ,191,4:28,antibiotics ,5:16,0:48,26.13978,51.21493,190000,discharged 
+36,66,insurance ,Male ,American ,car ,11/14/2021,1:58:16,2:04,5,2:16,2:28,vomiting ,procedure ,lumbar_puncture ,342,5:28,antibiotics ,6:16,0:48,25.21417,50.80722,220000,discharged 
+42,69,insurance ,Male ,Indian ,car ,11/17/2021,2:58:16,3:04,2,3:16,3:28,vomiting ,procedure ,Needle_decompression ,326,6:28,antibiotics ,7:16,0:48,25.82882,51.24567,30000,discharged 
+1,7,insurance ,Male ,Qatari ,car ,11/18/2021,3:58:16,4:04,3,4:16,4:28,stomatch pain ,Lab,CBC,148,6:28,Hernia ,6:58,0:30,25.61068,51.09108,200000,discharged 
+44,75,insurance ,Male ,Indian ,car ,11/19/2021,4:58:16,5:04,1,5:16,5:28,vomiting ,Lab,PT,400,8:28,antibiotics ,8:49,0:21,26.02565,51.36971,150000,discharged_AMA
+91,79,insurance ,Male ,Lebanese ,car ,11/19/2021,5:58:16,6:04,3,6:16,6:28,dyspnea ,Radiology ,CT - abdomen ,342,10:28,laparotomy ,10:34,0:06,24.7437,50.83174,80000,discharged_AMA
+17,66,insurance ,Male ,Qatari ,ambulance ,11/20/2021,6:58:16,7:04,2,7:16,7:28,stomatch pain ,Radiology ,CT-chest ,121,10:28,antibiotics ,10:58,0:30,25.57744,51.48306,400000,discharged_AMA
+2,8,insurance ,Female ,Qatari ,ambulance ,11/21/2021,8:58:16,9:04,4,9:16,9:28,stomatch pain ,Lab,urine analysis ,466,11:28,Hernia ,11:58,0:30,25.46972,51.3975,190000,discharged_AMA
+22,66,insurance ,Male ,American ,car ,11/23/2021,8:58:16,9:04,2,9:16,9:28,stomatch pain ,Radiology ,CT - abdomen ,122,12:28,antibiotics ,12:58,0:30,25.28545,51.53096,220000,discharged_AMA
+52,75,insurance ,Male ,Indian ,ambulance ,11/23/2021,9:58:16,10:04,5,10:16,10:28,chest pain ,Lab,TSH,178,13:28,antibiotics ,13:49,0:21,25.29194,51.42444,30000,discharged 
+72,15,insurance ,Female ,Lebanese ,car ,11/23/2021,10:58:16,11:04,2,11:16,11:28,dyspnea ,Lab,PTT ,246,15:28,cardiac cath ,16:16,0:48,25.41524,51.40647,200000,discharged 
+80,8,insurance ,Female ,Lebanese ,car ,11/23/2021,11:58:16,12:04,4,12:16,12:28,dyspnea ,Lab,PTT ,328,16:28,cardiac cath ,17:16,0:48,25.17151,51.60337,150000,discharged 
+30,10,insurance ,Male ,American ,car ,11/24/2021,12:58:16,13:04,4,13:16,13:28,vomiting ,Radiology ,X-ray pelvis,247,16:28,antibiotics ,17:16,0:48,25.68389,51.50583,80000,discharged 
+15,45,insurance ,Male ,Qatari ,ambulance ,11/25/2021,13:58:16,14:04,1,14:16,14:28,stomatch pain ,Lab,creatinine ,284,17:28,Hernia ,17:58,0:30,25.37088,51.22264,400000,discharged 
+76,88,insurance ,Female ,Lebanese ,car ,11/25/2021,14:58:16,15:04,1,15:16,15:28,dyspnea ,Lab,PTT ,135,19:28,cardiac cath ,20:16,0:48,25.42485,50.78227,190000,discharged 
+23,91,insurance ,Male ,American ,car ,11/26/2021,15:58:16,16:04,4,16:16,16:28,stomatch pain ,Radiology ,MRI-chest,497,19:28,antibiotics ,20:16,0:48,24.99226,51.55067,220000,discharged 
+19,79,insurance ,Male ,American ,car ,11/27/2021,16:58:16,17:04,1,17:16,17:28,stomatch pain ,Radiology ,MRI-chest,371,20:28,antibiotics ,20:58,0:30,26.12933,51.2009,30000,discharged 
+48,66,insurance ,Male ,Indian ,ambulance ,11/27/2021,17:58:16,18:04,5,18:16,18:28,chest pain ,Drugs ,Aspirin,294,21:28,antibiotics ,21:49,0:21,25.15107,51.53718,200000,discharged 
+68,69,insurance ,Male ,Indian ,car ,11/28/2021,18:58:16,19:04,1,19:16,19:28,chest pain ,Drugs ,Epinephrine,182,23:28,cardiac cath ,0:16,0:48,26.13978,51.21493,150000,discharged 
+13,79,insurance ,Female ,Qatari ,ambulance ,11/29/2021,19:58:16,20:04,3,20:16,20:28,stomatch pain ,Drugs ,Nitroglycerin,372,23:28,Hernia ,23:58,0:30,25.46972,51.3975,190000,discharged 
+98,15,insurance ,Male ,Lebanese ,car ,11/30/2021,19:58:16,20:04,4,20:16,20:28,burn ,Radiology ,X-Ray chest ,409,0:28,CABG ,0:34,0:06,25.28545,51.53096,220000,discharged 
+55,9,insurance ,Male ,Indian ,ambulance ,12/2/2021,19:58:16,20:04,2,20:16,20:28,chest pain ,Lab,TSH,291,21:28,antibiotics ,21:49,0:21,25.29194,51.42444,30000,discharged 
+12,71,insurance ,Female ,Qatari ,ambulance ,12/4/2021,19:58:16,20:04,2,20:16,20:28,stomatch pain ,Lab,HDL ,473,23:28,Hernia ,23:58,0:30,25.41524,51.40647,200000,discharged 
+14,82,insurance ,Female ,Qatari ,ambulance ,12/8/2021,19:58:16,20:04,4,20:16,20:28,stomatch pain ,Lab,urine analysis ,442,23:28,Hernia ,23:58,0:30,25.17151,51.60337,150000,discharged 
+32,25,insurance ,Male ,American ,car ,12/8/2021,0:58:16,1:04,1,1:16,1:28,vomiting ,Radiology ,X-ray pelvis,387,4:28,antibiotics ,5:16,0:48,25.68389,51.50583,80000,discharged 
+82,10,insurance ,Female ,Lebanese ,car ,12/8/2021,1:58:16,2:04,5,2:16,2:28,dyspnea ,Lab,PTT ,353,6:28,cardiac cath ,7:16,0:48,25.37088,51.22264,400000,discharged 
+3,9,insurance ,Female ,Qatari ,ambulance ,12/10/2021,2:58:16,3:04,3,3:22,3:40,stomatch pain ,Lab,creatinine ,188,5:40,Hernia ,6:10,0:30,25.42485,50.78227,190000,discharged 
+81,9,insurance ,Female ,Lebanese ,car ,12/10/2021,3:58:16,4:04,1,4:22,4:40,dyspnea ,Lab,PTT ,178,8:40,cardiac cath ,9:28,0:48,24.99226,51.55067,220000,discharged 
+61,33,insurance ,Male ,Indian ,car ,12/11/2021,4:58:16,5:04,3,5:22,5:40,chest pain ,Lab,TSH,483,6:40,antibiotics ,7:01,0:21,25.21417,50.80722,80000,discharged 
+28,8,insurance ,Male ,American ,car ,12/15/2021,5:58:16,6:07,5,6:25,6:43,stomatch pain ,procedure ,Needle_decompression ,419,9:43,antibiotics ,10:31,0:48,25.82882,51.24567,400000,discharged 
+66,82,insurance ,Male ,Indian ,car ,12/15/2021,6:58:16,7:07,5,7:25,7:43,chest pain ,procedure ,lumbar_puncture ,262,8:43,cardiac cath ,9:31,0:48,25.61068,51.09108,190000,discharged 
+89,58,insurance ,Male ,Lebanese ,car ,12/16/2021,8:58:16,9:07,5,9:25,9:43,dyspnea ,Drugs ,Aspirin,220,13:43,laparotomy ,13:49,0:06,26.02565,51.36971,220000,discharged 
+58,25,insurance ,Male ,Indian ,car ,12/18/2021,8:58:16,9:07,3,9:25,9:43,chest pain ,Drugs ,Epinephrine,344,10:43,antibiotics ,11:04,0:21,24.7437,50.83174,30000,discharged 
+25,78,insurance ,Male ,American ,car ,12/19/2021,9:58:16,10:07,1,10:25,10:43,stomatch pain ,Drugs ,Epinephrine,227,13:43,antibiotics ,14:31,0:48,25.57744,51.48306,200000,discharged 
+77,78,insurance ,Female ,Lebanese ,car ,12/19/2021,10:58:16,11:07,1,11:31,11:55,dyspnea ,Lab,PTT ,301,15:55,cardiac cath ,16:43,0:48,25.46972,51.3975,150000,admitted 
+56,10,insurance ,Male ,Indian ,ambulance ,12/20/2021,11:58:16,12:07,4,12:31,12:55,chest pain ,Lab,PT,338,13:55,antibiotics ,14:16,0:21,25.28545,51.53096,80000,admitted 
+21,41,insurance ,Male ,American ,car ,12/25/2021,12:58:16,13:07,1,13:31,13:55,stomatch pain ,Radiology ,CT-chest ,164,16:55,antibiotics ,17:25,0:30,25.29194,51.42444,400000,admitted 
+4,10,insurance ,Female ,Qatari ,ambulance ,12/26/2021,13:58:16,14:07,2,14:31,14:55,stomatch pain ,Lab,HDL ,230,16:55,Hernia ,17:25,0:30,25.41524,51.40647,190000,admitted 
+20,15,insurance ,Male ,American ,car ,12/27/2021,14:58:16,15:07,3,15:31,15:55,stomatch pain ,Radiology ,X-ray pelvis,111,18:55,antibiotics ,19:25,0:30,25.17151,51.60337,220000,admitted 
+96,75,insurance ,Male ,Lebanese ,car ,12/28/2021,15:58:16,16:07,5,16:31,16:55,burn ,Radiology ,CT - abdomen ,169,20:55,laparotomy ,21:01,0:06,25.68389,51.50583,30000,admitted 
+97,79,insurance ,Male ,Lebanese ,car ,12/29/2021,16:58:16,17:07,1,17:31,17:55,burn ,procedure ,lumbar_puncture ,351,21:55,laparotomy ,22:01,0:06,25.37088,51.22264,,admitted 
+77,78,insurance ,Female ,Lebanese ,car ,12/19/2021,10:58:16,11:07,5,11:31,11:55,dyspnea ,procedure ,lumbar_puncture ,301,15:55,cardiac cath ,16:43,0:48,25.37088,51.50583,,admitted 
